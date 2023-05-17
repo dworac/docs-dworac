@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/dworac/docs-dworac/compare/v1.3.0...v1.4.0) (2023-05-17)
+
+
+### Features
+
+* Update settings.yml ([ced9aed](https://github.com/dworac/docs-dworac/commit/ced9aed6eac071377510c4302a4c3d3a9ccc80a3))
+
 ## [1.3.0](https://github.com/dworac/docs-dworac/compare/v1.2.0...v1.3.0) (2023-05-17)
 
 
