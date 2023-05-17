@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/dworac/docs-dworac/compare/v1.0.0...v1.1.0) (2023-05-17)
+
+
+### Features
+
+* deploy digital ocean ([ca7be48](https://github.com/dworac/docs-dworac/commit/ca7be489ab9a85624e200088765343be27c95bf4))
+
 ## 1.0.0 (2023-05-17)
 
 
