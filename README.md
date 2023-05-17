@@ -2,7 +2,7 @@
 
 This is the repository for `@dworac/docs`, a project that uses Docusaurus v2.4.1 to generate a static website with documentation.
 
-View the documentation at [https://dworac.github.io/docs/](https://docs.dworac.com).
+View the documentation at [https://docs.dworac.com](https://docs.dworac.com).
 
 ## Prerequisites
 
