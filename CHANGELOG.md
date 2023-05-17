@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/dworac/docs/compare/v1.5.1...v1.6.0) (2023-05-17)
+
+
+### Features
+
+* branch and repo naming convention ([8db362b](https://github.com/dworac/docs/commit/8db362b7431d45fda7c2e79802cc086e097f41ad))
+
 ## [1.5.1](https://github.com/dworac/docs/compare/v1.5.0...v1.5.1) (2023-05-17)
 
 
