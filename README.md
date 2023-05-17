@@ -1,41 +1,75 @@
-# Website
+# @dworac/docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This is the repository for `@dworac/docs`, a project that uses Docusaurus v2.4.1 to generate a static website with documentation.
 
-### Installation
+View the documentation at [https://dworac.github.io/docs/](https://docs.dworac.com).
 
-```
-$ yarn
-```
+## Prerequisites
 
-### Local Development
+Ensure that you have Node.js v16.14 (or later) installed on your machine before proceeding and yarn installed globally.
 
-```
-$ yarn start
-```
+## Installation
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+To install all necessary dependencies, navigate to the repository's root directory in your terminal and run:
 
-### Build
-
-```
-$ yarn build
+```bash
+yarn
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Available Scripts
 
-### Deployment
+In the project directory, you can run:
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+yarn start
 ```
 
-Not using SSH:
+Runs the website in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```bash
+yarn build
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Builds the website for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance.
+
+```bash
+yarn swizzle
+```
+
+Copies the theme files into your website. Be careful as this command will override any existing files with the same name.
+
+```bash
+yarn deploy
+```
+
+Builds and deploys the website. This command is a shorthand for running `docusaurus build` and `docusaurus deploy`.
+
+```bash
+yarn clear
+```
+
+Deletes the cache and generated files.
+
+```bash
+yarn serve
+```
+
+Serves the content of the `build` directory as a static site. Useful for testing the build output.
+
+```bash
+yarn write-translations
+```
+
+Dumps the default messages that would be translated.
+
+```bash
+yarn write-heading-ids
+```
+
+Overwrites Markdown files in-place with heading IDs using the GitHub algorithm.
+
+## Contributing
+If you have any suggestions or improvements, please feel free to create a pull request or submit an issue.
+
+## License
+This project is licensed under the MIT license. Please see the LICENSE file for more information.
