@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.1](https://github.com/dworac/docs/compare/v1.5.0...v1.5.1) (2023-05-17)
+
+
+### Bug Fixes
+
+* node version ([e70ac2d](https://github.com/dworac/docs/commit/e70ac2d37565348ac68ca8afa2459b30b0d80199))
+* Update deploy-do.yml ([e7650c3](https://github.com/dworac/docs/commit/e7650c3ad0227b72dc66ce02a2d8286f1f7fc2b7))
+
 ## [1.5.0](https://github.com/dworac/docs/compare/v1.4.0...v1.5.0) (2023-05-17)
 
 
