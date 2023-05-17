@@ -13,7 +13,7 @@ repository:
   is_template: false
 
   # A URL with more information about the repository
-  homepage: https://github.com/dworac/docs-dworac
+  homepage: https://docs.dworac.com/
 
   # A comma-separated list of topics to set on the repository
   topics: dworac,docs,documentation,github,organization
