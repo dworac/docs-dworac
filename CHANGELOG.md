@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/dworac/docs/compare/v1.4.0...v1.5.0) (2023-05-17)
+
+
+### Features
+
+* basic structure and repo cleaning ([869256c](https://github.com/dworac/docs/commit/869256cf81da648f41bcc7562b220f1e89b82e6c))
+
 ## [1.4.0](https://github.com/dworac/docs-dworac/compare/v1.3.0...v1.4.0) (2023-05-17)
 
 
