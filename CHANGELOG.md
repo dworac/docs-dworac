@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/dworac/docs-dworac/compare/v1.1.0...v1.2.0) (2023-05-17)
+
+
+### Features
+
+* fixed app name ([8cc8fb7](https://github.com/dworac/docs-dworac/commit/8cc8fb7afa43edaff8577699e58fc7bcffff9ee0))
+
 ## [1.1.0](https://github.com/dworac/docs-dworac/compare/v1.0.0...v1.1.0) (2023-05-17)
 
 
