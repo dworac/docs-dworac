@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/dworac/docs/compare/v1.6.0...v1.6.1) (2023-05-17)
+
+
+### Bug Fixes
+
+* broken links ([03142eb](https://github.com/dworac/docs/commit/03142ebf3994b47120df4b0b3bdd32d93c687553))
+
 ## [1.6.0](https://github.com/dworac/docs/compare/v1.5.1...v1.6.0) (2023-05-17)
 
 
