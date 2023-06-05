@@ -23,3 +23,20 @@ Assume you're refactoring the code related to the comments section of a blog pos
 When you're researching a potential new feature like implementing push notifications and the ticket number is 666. The branch name would be: `research/666-implement-push-notifications`
 
 Remember, these are just examples and your actual task descriptions will be specific to your project.
+
+```mermaid
+---
+title: Example Git diagram
+---
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```

@@ -4,63 +4,87 @@ sidebar_label: Branch Naming Convention
 
 # Branch Naming Convention
 
-## Introduction
+In this guide, we will outline the standard procedures and guidelines for naming Git branches within our software development workflow. Good naming conventions are essential for team collaboration and project management.
 
-Branch naming conventions are crucial in a version control system like Git. They allow a team to stay organized, understand the structure of the work, and navigate the project efficiently. This document outlines the branch naming conventions to be adhered to by our team for a more streamlined, consistent, and productive workflow.
+:::info
+This guide is mainly focused on working on GitHub, but the same principles can be applied to other Git hosting services.
+:::
+:::caution
+Not adhering to these naming conventions will result in an audit failure.
+:::
 
-## Branch Naming Conventions
+## Purpose of Naming Conventions
 
-Our branch naming conventions are organized into different categories based on the nature of the work.
+The primary purposes of having a proper naming convention for Git branches are to maintain organization, ease of access, and understanding the purpose of different branches.
 
-**1. Feature Branches**
+## Naming Git Branches
 
-All new features should be developed on a separate branch. These branches should be named using the following convention:
+### Non-Issue-related Branches
 
-`feature/<ticket number>-<brief-description>`
+All git branches that aren't directly associated with an issue should follow the following naming conventions:
 
-Example: `feature/123-add-login-button`
+`<type>/<name>`
+- `<type>` - The type of branch. See [Branch Types](#branch-types) for more information.
+- `<name>` - A brief description of the work the branch involves. See [Branch Names](#branch-names) for more information.
 
-**2. Bug Fixes**
+:::tip
+We recommend not using non-issue-related branches. Instead, create an issue for the work you want to do, and then create a branch related to that issue. This will help keep track of the progress of the work and will make it easier to understand the purpose of the branch.
+:::
 
-All bug fixes should be developed on a separate branch. These branches should be named using the following convention:
 
-`bugfix/<ticket number>-<brief-description>`
+### Issue-related Branches
 
-Example: `bugfix/456-fix-navigation-bar`
+Branches related with a specific issue should contain the issue number and a brief description of the work involved. Here is the format:
+This is useful for tracking the progress of the issue and for understanding the purpose of the branch.
+Some issues trackers (such as GitHub) will automatically link the branch to the issue if the branch name contains the issue number.
 
-**3. Hot Fixes**
+`<type>/<issue-number>-<name>`
 
-Hot fixes are urgent changes usually related to production issues. These branches should be named using the following convention:
+- `<type>` - The type of branch. See [Branch Types](#branch-types) for more information.
+- `<issue-number>` - The issue number associated with the branch.
+- `<name>` - A brief description of the work the branch involves. See [Branch Names](#branch-names) for more information.
 
-`hotfix/<ticket number>-<brief-description>`
+### Branch Types
 
-Example: `hotfix/789-correct-typo-homepage`
+- Feature branches: `feat` These branches are used to add new features to the project.
+- Bug fix branches: `fix` These branches are used to fix bugs in the project.
+- Refactoring branches: `refactor` These branches are used to refactor code in the project.
+- Experimental branches: `exp` These branches are used to experiment with new ideas.
+- Maintenance branches: `chore` These branches are used to perform general maintenance on the project.
 
-**4. Refactor**
+:::info
+Chore branches are usually not associated with an issue. They are used for general maintenance tasks such as updating dependencies or fixing repository related issues.
+:::
 
-Branches created for refactoring code should use the following format:
+### Branch Names
 
-`refactor/<ticket number>-<brief-description>`
+The name of the branch should be a brief description of the work the branch involves. It should be descriptive enough to give a quick idea about what changes the branch introduces.
 
-Example: `refactor/321-optimize-image-loading`
+- The name should be all lower case.
+- Use hyphens `-` to separate words in the name, not spaces or underscores.
+- The name should be brief but descriptive.
+- It should give a quick idea about what changes the branch introduces.
+- Avoid using generic names such as `update` or `fix`.
 
-**5. Experimental / Research**
+## Examples
 
-Branches created for exploring new ideas or conducting some research should use the following format:
+- `feat/1234-red-button` - A feature branch that adds a red button. The issue number is 1234.
+- `fix/1234-missing-button` - A bug fix branch that fixes a missing button. The issue number is 1234.
+- `refactor/1234-button-component` - A refactoring branch that refactors the button component. The issue number is 1234.
+- `chore/update-dependencies` - A maintenance branch that updates the dependencies. This branch is not associated with an issue.
+- `exp/new-button` - An experimental branch that experiments with a new button. This branch is not associated with an issue.
 
-`research/<ticket number>-<brief-description>`
+:::danger Reserved Branch Names
 
-Example: `research/654-implement-dark-mode`
+Some branch names are reserved for specific purposes. These branches should not be used for any other purpose.
 
-## Rules and Guidelines
+- `master` - The main branch of the repository. This branch should contain the latest stable version of the project.
+- `develop` - The development branch of the repository. This branch should contain the latest development version of the project.
+- `release` - The release branch of the repository. This branch should contain the latest release version of the project.
+- `hotfix` - The hotfix branch of the repository. This branch should contain the latest hotfix version of the project.
 
-- Always use lower case and hyphens for spaces.
-- Start the branch name with the type of task to be performed (feature, bugfix, etc.).
-- Include the ticket number from the project management tool to link your branch to a specific task.
-- Add a brief description about the task, using hyphens for spaces.
-- Avoid long branch names; try to keep them under 30 characters.
-- Do not use special characters in branch names.
-- Delete the branch after merging it into the main branch.
+:::
+
 
 ## Conclusion
 
