@@ -17,26 +17,22 @@ Benefits of using trunk-based development
 
 
 ```mermaid
----
-title: Trunk-Based Development
----
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'master'}} }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':false,'mainBranchName': 'master','mainBranchOrder': 2}} }%%
 gitGraph
+   commit tag:"1.0.0"
    commit
-   commit
-   branch feature/235-add-search-bar
+   branch feature/235-add-search-bar order: 3
    checkout feature/235-add-search-bar
    commit
    commit
    checkout master
    merge feature/235-add-search-bar
    commit
-   commit
-   branch fix/764-fix-profile-update
+   branch fix/764-fix-profile-update order: 4
    checkout fix/764-fix-profile-update
    commit
    commit
    checkout master
    merge fix/764-fix-profile-update
-   commit
+   commit tag:"1.0.1"
 ```
