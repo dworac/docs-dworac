@@ -1,4 +1,4 @@
-# Repository
+# Repositories
 
 In this section, we will outline the standard procedures and guidelines for working with Git branches within our software development workflow. Good naming conventions are essential for team collaboration and project management.
 
