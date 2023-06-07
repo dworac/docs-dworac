@@ -2,7 +2,7 @@
 id: readme-docs
 ---
 
-# README.md
+# Readme
 
 The README.md file is often the first document that users and contributors encounter when visiting a software project's repository. It serves as a key guide and reference point for understanding the project's purpose, functionality, and structure. As such, crafting a high-quality README.md is essential for effectively conveying the usage, installation, and contribution guidelines of your project.
 

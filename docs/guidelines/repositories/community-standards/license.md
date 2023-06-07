@@ -2,7 +2,7 @@
 id: license
 ---
 
-# LICENSE
+# License
 
 The LICENSE file is an important part of any software repository. It describes the conditions under which the software can be used and distributed, as well as the responsibilities and liabilities of the user.
 

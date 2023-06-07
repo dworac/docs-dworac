@@ -2,7 +2,7 @@
 id: contributing
 ---
 
-# CONTRIBUTING.md
+# Contributing
 
 The CONTRIBUTING.md is a crucial file in any open-source software project. It outlines the process and guidelines for contributing to the project. This includes how to report issues, how to suggest improvements, and the process for submitting pull requests.
 

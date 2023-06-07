@@ -2,7 +2,7 @@
 id: issue-templates
 ---
 
-# ISSUE_TEMPLATE.md
+# Issue Templates
 
 Issue templates, such as `ISSUE_TEMPLATE.md`, are vital components for managing software repositories. They help standardize the way users submit issues—bugs, feature requests, or any other types of reports. This standardization makes it easier for project maintainers to understand and address these issues.
 

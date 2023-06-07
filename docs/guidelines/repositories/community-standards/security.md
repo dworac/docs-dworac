@@ -2,7 +2,7 @@
 id: security-policy
 ---
 
-# SECURITY.md
+# Security Policy
 
 The SECURITY.md file is an important aspect of any software repository. It provides a way for project maintainers to communicate to users how they handle security vulnerabilities in the project. This can include information about how to report a security vulnerability, what to expect when a vulnerability is reported, and any known security vulnerabilities and their fixes.
 
