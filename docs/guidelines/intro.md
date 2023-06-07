@@ -6,8 +6,7 @@ sidebar_position: 1
 
 This section contains guidelines for creating and maintaining repositories in the organization. It is divided into the following subsections:
 
-- [Repository Naming Convention](/guidelines/repository-naming-convention)
-- [Branch Naming Convention](/guidelines/branch-naming-convention)
+- [Repositories](/guidelines/repositories)
 - [Pull Request Guidelines (SOON)](http://docs.dworac.com)
 - [Commit Guidelines (SOON)](http://docs.dworac.com)
 - [Issue Guidelines (SOON)](http://docs.dworac.com)

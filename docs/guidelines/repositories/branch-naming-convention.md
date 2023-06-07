@@ -13,7 +13,7 @@ This guide is mainly focused on working on GitHub, but the same principles can b
 Not adhering to these naming conventions will result in an audit failure.
 :::
 
-## Purpose of Naming Conventions
+## Purpose
 
 The primary purposes of having a proper naming convention for Git branches are to maintain organization, ease of access, and understanding the purpose of different branches.
 
