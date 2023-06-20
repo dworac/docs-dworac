@@ -1,32 +1,45 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 
-# Introduction
+# Repositories Guidelines
 
-In this section, we will outline the standard procedures and guidelines for working with Git branches within our software development workflow. Good naming conventions are essential for team collaboration and project management.
+We are going to cover in depth the guidelines for repositories. This will help ensure that all repositories are consistent and follow the best practices.
 
-## Branch Naming Convention
+### Trunk-Based Development
+
+Trunk-Based Development (TBD) is a software development practice where developers work on a single branch (usually the `main` branch) and commit their changes directly to that branch. TBD is the default development workflow for this project.
+
+(See [Trunk-Based Development](./trunk-based-development) for more information.)
+
+### Naming Convention
+
+The primary purposes of having a proper naming convention for Git repositories are to maintain organization, ease of access, and understanding the purpose of different repositories.
+
+(See [Repository Naming Convention](./repository-naming-convention) for more information.)
+
+### Branch Naming Convention
 
 The primary purposes of having a proper naming convention for Git branches are to maintain organization, ease of access, and understanding the purpose of different branches.
 
 (See [Branch Naming Convention](./branch-naming-convention) for more information.)
 
-## Community Standards
+### Community Standards
 
 They help to maintain a healthy and productive environment for all contributors.
 These guidelines are inspired by the [GitHub Community Guidelines](https://opensource.guide/).
 
 See [Community Standards](./community-standards) for more information.
 
-## Repository Naming Convention
+### Settings
 
-The primary purposes of having a proper naming convention for Git repositories are to maintain organization, ease of access, and understanding the purpose of different repositories.
+Using the repository-settings Probot app, this allows us to define the repository settings from inside the repository itself. This allows us to have a single source of truth for all repository settings.
 
-(See [Repository Naming Convention](./repository-naming-convention) for more information.)
+(See [Repository Settings](./settings) for more information.)
 
-## Trunk-Based Development
+### Changelog
 
-Trunk-Based Development (TBD) is a software development practice where developers work on a single branch (usually the `main` branch) and commit their changes directly to that branch. TBD is the default development workflow for this project.
+The primary purpose of having a changelog is to keep track of all notable changes made to a project. It helps to maintain a record of all the changes made to the project and also helps to keep the contributors and users informed about the changes.
 
-(See [Trunk-Based Development](./trunk-based-development) for more information.)
+(See [Changelog](./changelog) for more information.)

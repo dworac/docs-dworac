@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'repositoriesSidebar',
             position: 'left',
-            label: 'Repositories',
+            label: 'Repositories Guidelines',
           },
           {
             type: 'docSidebar',
