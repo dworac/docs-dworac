@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.7.0](https://github.com/dworac/docs/compare/v1.6.1...v1.7.0) (2023-06-20)
+
+
+### Features
+
+* refactored guidelines to repositories ([07bbee4](https://github.com/dworac/docs/commit/07bbee45e5d6da617520400b7eda63161ddff1ec))
+* repository settings ([d536347](https://github.com/dworac/docs/commit/d5363473333ca7917d1d6d801452e7f939e5ad93))
+* repository settings ([1188e0b](https://github.com/dworac/docs/commit/1188e0b44bcd6fe274178fdd402101da98f47c7c))
+
 ## [1.6.1](https://github.com/dworac/docs/compare/v1.6.0...v1.6.1) (2023-05-17)
 
 
