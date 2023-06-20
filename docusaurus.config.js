@@ -76,9 +76,9 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'apiSidebar',
+            sidebarId: 'auditorSidebar',
             position: 'left',
-            label: 'API',
+            label: 'Auditor',
           },
           {
             href: 'https://github.com/dworac/docs',
