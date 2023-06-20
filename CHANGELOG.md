@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/dworac/docs/compare/v1.8.0...v1.9.0) (2023-06-20)
+
+
+### Features
+
+* repository renaming ([7fe2e4f](https://github.com/dworac/docs/commit/7fe2e4fd08057ee9b19b8b0e7910f9bc1718d7d3))
+
 ## [1.8.0](https://github.com/dworac/docs/compare/v1.7.0...v1.8.0) (2023-06-20)
 
 
