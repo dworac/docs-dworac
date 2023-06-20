@@ -31,7 +31,10 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   presets: [
     [
       'classic',
@@ -67,9 +70,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'guidelinesSidebar',
+            sidebarId: 'repositoriesSidebar',
             position: 'left',
-            label: 'Guidelines',
+            label: 'Repositories',
           },
           {
             type: 'docSidebar',
