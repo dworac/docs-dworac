@@ -1,6 +1,6 @@
 ---
 sidebar_label: Naming Convention
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Repository Naming Convention

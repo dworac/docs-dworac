@@ -1,6 +1,6 @@
 ---
 sidebar_label: Settings
-sidebar_position: 4
+sidebar_position: 6
 ---
 
 # Repository Settings Probot App
@@ -141,7 +141,7 @@ branches:
 
 And add the following to the bottom of the .github/CODEOWNERS file: (replace `@dworac` with the GitHub username of the admin user)
 
-``` yaml title=".github/CODEOWNERS"
+```yaml title=".github/CODEOWNERS"
 .github/settings.yml @dworac
 ```
 

@@ -30,12 +30,3 @@ The primary purposes of having a proper naming convention for Git repositories a
 Trunk-Based Development (TBD) is a software development practice where developers work on a single branch (usually the `main` branch) and commit their changes directly to that branch. TBD is the default development workflow for this project.
 
 (See [Trunk-Based Development](./trunk-based-development) for more information.)
-
-[//]: # (```mdx-code-block)
-
-[//]: # (import DocCardList from '@theme/DocCardList';)
-
-[//]: # ()
-[//]: # (<DocCardList />)
-
-[//]: # (```)

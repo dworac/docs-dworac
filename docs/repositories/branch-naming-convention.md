@@ -1,6 +1,6 @@
 ---
 sidebar_label: Branch Naming Convention
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Branch Naming Convention

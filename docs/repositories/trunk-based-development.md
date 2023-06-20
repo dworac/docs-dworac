@@ -1,8 +1,13 @@
 ---
 id: trunk-based-development
+sidebar_position: 2
 ---
 
 # Trunk-Based Development
+
+:::info
+The default branch name for repositories should be `master`
+:::
 
 ## What is Trunk-Based Development?
 Trunk-based development (TBD) is a source control workflow model that enables continuous integration.
