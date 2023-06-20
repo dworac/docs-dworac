@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/dworac/docs/compare/v1.7.0...v1.8.0) (2023-06-20)
+
+
+### Features
+
+* added auditor docs ([4bdf94c](https://github.com/dworac/docs/commit/4bdf94cdc09c46fb2d6b5c05bbde17a346aedd10))
+
 ## [1.7.0](https://github.com/dworac/docs/compare/v1.6.1...v1.7.0) (2023-06-20)
 
 
