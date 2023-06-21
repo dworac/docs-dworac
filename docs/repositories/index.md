@@ -9,7 +9,7 @@ We are going to cover in depth the guidelines for repositories. This will help e
 
 ### Trunk-Based Development
 
-Trunk-Based Development (TBD) is a software development practice where developers work on a single branch (usually the `main` branch) and commit their changes directly to that branch. TBD is the default development workflow for this project.
+Trunk-Based Development (TBD) is a software development practice where developers work on a single branch (usually the `master` branch) and commit their changes directly to that branch. TBD is the default development workflow for this project.
 
 See [Trunk-Based Development](./trunk-based-development) for more information.
 
