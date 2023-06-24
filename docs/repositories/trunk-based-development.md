@@ -5,9 +5,37 @@ sidebar_position: 2
 
 # Trunk-Based Development
 
-:::info
-The default branch name for repositories should be `master`
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-007-v1
+</code>
+<br></br>
+Default branch name should be either `master` or `main`.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-009-v1
+</code>
+<br></br>
+Releases should be tagged using a semantic versioning scheme.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-010-v1
+</code>
+<br></br>
+The default branch should be protected from direct pushes.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
 :::
+
 
 ## What is Trunk-Based Development?
 Trunk-based development (TBD) is a source control workflow model that enables continuous integration.

@@ -5,14 +5,48 @@ sidebar_position: 4
 
 # Branch Naming Convention
 
-In this guide, we will outline the standard procedures and guidelines for naming Git branches within our software development workflow. Good naming conventions are essential for team collaboration and project management.
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-007-v1
+</code>
+<br></br>
+Branches should contain the issue id if the work is related to an issue.
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-008-v1
+</code>
+<br></br>
+Branches should contain the <a href="#branch-types">Branch Type</a>, such as `feat`, `fix` or `chore`
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-010-v1
+</code>
+<br></br>
+Branches should be named in kebab-case.
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-009-v1
+</code>
+<br></br>
+Do not use the <a href="#examples">Reserved branch names</a> for branches.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
 
 :::info
 This guide is mainly focused on working on GitHub, but the same principles can be applied to other Git hosting services.
 :::
-:::caution
-Not adhering to these naming conventions will result in an audit failure.
-:::
+
+In this guide, we will outline the standard procedures and guidelines for naming Git branches within our software development workflow. Good naming conventions are essential for team collaboration and project management.
+
 
 ## Purpose
 

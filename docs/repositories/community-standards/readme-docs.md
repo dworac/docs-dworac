@@ -4,6 +4,12 @@ id: readme-docs
 
 # Readme
 
+:::caution
+Not having a readme will result in the repository being flagged by the Auditor with the rule code:
+
+`DEV-DOC-005-v1`
+:::
+
 The README.md file is often the first document that users and contributors encounter when visiting a software project's repository. It serves as a key guide and reference point for understanding the project's purpose, functionality, and structure. As such, crafting a high-quality README.md is essential for effectively conveying the usage, installation, and contribution guidelines of your project.
 
 A README.md file is typically located in the root directory of your project's repository. It should be named `README.md` and must be written in Markdown language.

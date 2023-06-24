@@ -4,6 +4,30 @@ id: issue-templates
 
 # Issue Templates
 
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-007-v1
+</code>
+<br></br>
+A template for bug reports should be present in the repository with the path <code>.github/ISSUE_TEMPLATE/bug_report.md</code>.
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-007-v1
+</code>
+<br></br>
+A template for feature requests should be present in the repository with the path <code>.github/ISSUE_TEMPLATE/feature_request.md</code>.
+<br></br>
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
+
 Issue templates, such as `ISSUE_TEMPLATE.md`, are vital components for managing software repositories. They help standardize the way users submit issues—bugs, feature requests, or any other types of reports. This standardization makes it easier for project maintainers to understand and address these issues.
 
 Issue templates are typically located in the repository's `.github/ISSUE_TEMPLATE` directory. They should be named to reflect their purpose (e.g., `bug_report.md`, `feature_request.md`) and should be written in Markdown.

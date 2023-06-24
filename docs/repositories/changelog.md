@@ -5,6 +5,29 @@ sidebar_position: 7
 
 # Changelog
 
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-007-v1
+</code>
+<br></br>
+A changelog should be present in the repository's root directory.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-008-v1
+</code>
+<br></br>
+The changelog should be automatically generated using a tool such as <a href="#automating-with-release-please">Release Please</a>
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
 The CHANGELOG.md file is a vital part of any software repository. It offers a concise, chronological summary of all the significant changes made to each version of a project. This can include details about new features, bug fixes, deprecated functionalities, and any other notable modifications.
 
 The CHANGELOG.md file should be located in the root directory of the repository. It should be named `CHANGELOG.md` and should be written in Markdown.

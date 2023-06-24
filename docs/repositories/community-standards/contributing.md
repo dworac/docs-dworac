@@ -4,6 +4,29 @@ id: contributing
 
 # Contributing
 
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-007-v1
+</code>
+<br></br>
+A Contributing file should be present in the repository's root directory with the name <code>CONTRIBUTING.md</code>.
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-008-v1
+</code>
+<br></br>
+The Contributing file should be written in Markdown and should contain all the necessary information for a user to contribute to the project.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
+
 The CONTRIBUTING.md is a crucial file in any open-source software project. It outlines the process and guidelines for contributing to the project. This includes how to report issues, how to suggest improvements, and the process for submitting pull requests.
 
 The CONTRIBUTING.md should be located in the root directory of the repository. It should be named `CONTRIBUTING.md` and should be written in Markdown.
@@ -25,7 +48,7 @@ We love your input! We want to make contributing to this project as easy and tra
 Make It Welcoming: A good CONTRIBUTING.md encourages participation and fosters a welcoming and inclusive community.
 :::
 
-:::caution
+:::tip
 Ensure Clarity: Be clear and specific about how to contribute to the project, what steps need to be followed, and what the expectations are.
 :::
 
@@ -51,8 +74,6 @@ A CONTRIBUTING.md usually contains the following sections:
 
 - Guidelines for code contribution: Instructions on how to submit a patch or pull request. This might include code style guidelines, test writing advice, and how to use version control to submit changes.
 
-- Code of Conduct: A statement about the expected behavior of contributors, possibly with a link to a separate CODE_OF_CONDUCT.md document.
-
 :::tip
 Stay Updated: Regularly updating the CONTRIBUTING.md file to reflect the evolving needs and guidelines of the project is crucial to keep the contribution process effective.
 :::
@@ -65,4 +86,4 @@ Stay Updated: Regularly updating the CONTRIBUTING.md file to reflect the evolvin
 
 ## Conclusion
 
-The CONTRIBUTING.md is an important part of an open-source project. It encourages contributions by providing clear guidelines and ensuring that contributors understand the expectations and the process. A good CONTRIBUTING.md is welcoming, detailed, and clear, fostering a positive and inclusive community.
+The CONTRIBUTING.md is an important part of an open-source or closed-source project. It encourages contributions by providing clear guidelines and ensuring that contributors understand the expectations and the process. A good CONTRIBUTING.md is welcoming, detailed, and clear, fostering a positive and inclusive community.

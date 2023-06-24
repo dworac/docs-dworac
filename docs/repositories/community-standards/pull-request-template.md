@@ -4,6 +4,24 @@ id: pr-templates
 
 # Pull Request Templates
 
+
+
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-007-v1
+</code>
+<br></br>
+A template for pull requests should be present in the repository with the path <code>.github/PULL_REQUEST_TEMPLATE.md</code>.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
+
 Pull Request templates, often named `PULL_REQUEST_TEMPLATE.md`, are crucial tools in streamlining the contribution process in a software project. They guide contributors to provide necessary information when proposing changes to the codebase. This helps maintainers understand the changes, streamline the review process, and ensure that any new pull requests adhere to the project's contribution guidelines.
 
 A Pull Request template should be located in the repository's root directory, in the `.github` directory, or in the `.github/PULL_REQUEST_TEMPLATE` directory. It should be named `PULL_REQUEST_TEMPLATE.md` and should be written in Markdown.
