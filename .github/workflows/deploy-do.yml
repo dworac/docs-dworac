@@ -2,17 +2,11 @@ name: Deploy to Digital Ocean
 on:
   release:
     types: [published]
-  workflow_dispatch:
-    inputs: 
-      tags:
-        description: 'Test scenario tags'
-        required: false
-        type: boolean
 jobs:
   build:
     runs-on: ubuntu-latest
     environment:
-      name: dev
+      name: prod
       url: https://docs.dworac.com
     steps:
       - name: DigitalOcean App Platform deployment

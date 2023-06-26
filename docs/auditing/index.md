@@ -19,6 +19,6 @@ The Auditor offers a variety of features:
 
 ## Next Steps
 
-Start by installing the Auditor in your organization. You can find the installation instructions [here](/auditor/installation).
+Start by installing the Auditor in your organization. You can find the installation instructions [here](/auditing/installation).
 
-Once you have installed the Auditor, you can configure it to suit your needs. You can find the configuration instructions [here](/auditor/configuration).
+Once you have installed the Auditor, you can configure it to suit your needs. You can find the configuration instructions [here](/auditing/configuration).

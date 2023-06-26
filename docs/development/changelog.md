@@ -25,7 +25,7 @@ The changelog should be automatically generated using a tool such as <a href="#a
 <br></br>
 <br></br>
 
-Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+Check out all the rules in the <a href="/auditing/rules">Auditor Rules</a> section.
 :::
 
 The CHANGELOG.md file is a vital part of any software repository. It offers a concise, chronological summary of all the significant changes made to each version of a project. This can include details about new features, bug fixes, deprecated functionalities, and any other notable modifications.

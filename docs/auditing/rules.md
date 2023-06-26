@@ -2,8 +2,10 @@
 
 This table is a list of all the rules that are currently implemented in the Auditor. The table is sorted alphabetically by the name of the rule.
 
-## <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>DEVELOPMENT</code>
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>DEVELOPMENT</code>
  
+<br></br>
+
 | Rule Code                                                                                                           | Description                                                                           | Link                                                       |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------|
 | <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}> DEV-STD-001-v1 </code> | Ensures master or main is the principal branch                                        | [more](/development/trunk-based-development)               |
