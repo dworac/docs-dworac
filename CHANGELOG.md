@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.11.0](https://github.com/dworac/docs/compare/v1.10.0...v1.11.0) (2023-06-26)
+
+
+### Features
+
+* check build before pr ([6efaf94](https://github.com/dworac/docs/commit/6efaf9401385ceeaf69ebc5932eee0e80c29099b))
+
+
+### Bug Fixes
+
+* renamed worflow job name ([4a69720](https://github.com/dworac/docs/commit/4a697207a3a7a88250127e1fd7200b393b362be3))
+
 ## [1.10.0](https://github.com/dworac/docs/compare/v1.9.0...v1.10.0) (2023-06-26)
 
 
