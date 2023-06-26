@@ -1,6 +1,7 @@
 ---
 id: development-policy
 title: Development.md
+sidebar_position: 8
 ---
 
 # Development.md
