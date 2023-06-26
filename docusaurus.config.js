@@ -70,9 +70,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'repositoriesSidebar',
+            sidebarId: 'developmentSidebar',
             position: 'left',
-            label: 'Repositories',
+            label: 'Development',
           },
           {
             type: 'docSidebar',

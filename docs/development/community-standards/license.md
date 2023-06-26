@@ -8,7 +8,7 @@ id: license
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-017-v1
 </code>
 <br></br>
 A License should be present in the repository's root directory with the name <code>LICENSE</code>.

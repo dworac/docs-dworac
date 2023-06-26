@@ -9,7 +9,7 @@ sidebar_position: 3
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-STD-002-v1
+DEV-STD-004-v1
 </code>
 <br></br>
 The repository name should follow the guidelines outlined in this document. Such as using lowercase letters, using dashes to separate words.
@@ -17,7 +17,7 @@ The repository name should follow the guidelines outlined in this document. Such
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-STD-003-v1
+DEV-DOC-005-v1
 </code>
 <br></br>
 Using a descriptive name for the repository.

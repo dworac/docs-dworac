@@ -8,7 +8,7 @@ id: readme-docs
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-019-v1
 </code>
 <br></br>
 A readme file should be present in the repository with the path <code>README.md</code>.

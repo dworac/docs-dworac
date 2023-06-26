@@ -8,56 +8,50 @@ Our auditing system rule codes are designed to help us quickly and accurately id
 
 Here's an example code:
 
-<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>DEV</code>-
-<code style={{backgroundColor:'#3498db', color: 'white', paddingLeft:10, paddingRight: 10}}>SEC</code>-
-<code style={{backgroundColor:'#9b59b6', color: 'white', paddingLeft:10, paddingRight: 10}}>004</code>-
-<code style={{backgroundColor:'#e67e22', color: 'white', paddingLeft:10, paddingRight: 10}}>v1</code>
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>DEV-SEC-004-v1</code>
 
-### Component Indicator 
+[//]: # (<code style={{backgroundColor:'#3498db', color: 'white', paddingLeft:10, paddingRight: 10}}>SEC</code>-)
 
-<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>DEV</code>
+[//]: # (<code style={{backgroundColor:'#9b59b6', color: 'white', paddingLeft:10, paddingRight: 10}}>004</code>-)
 
-The first part of the code, in this case, DEV, is the component indicator. This part of the code tells you which department or component of our software system the rule applies to.
+[//]: # (<code style={{backgroundColor:'#e67e22', color: 'white', paddingLeft:10, paddingRight: 10}}>v1</code>)
+
+### Area Indicator 
+
+The first part of the code, in this case, DEV, is the area indicator. This part of the code tells you which area of our software system the rule applies to.
 
 Here are the possible component indicators:
 
-- DEV: Development
-- QA: Quality Assurance
-- SEC: Security
-- PM: Project Management
-- DSGN: Design
+| Area Indicator                                                                                               | Area Name             |
+|--------------------------------------------------------------------------------------------------------------| --------------------- |
+| <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>DEV</code>       | Development            |
+| <code style={{backgroundColor:'#3498db', color: 'white', paddingLeft:10, paddingRight: 10}}>PM</code>        | Project Management     |
+| <code style={{backgroundColor:'#9b59b6', color: 'white', paddingLeft:10, paddingRight: 10}}>QA</code>              | Quality Assurance      |
+
 
 ### Rule Type
-
-<code style={{backgroundColor:'#3498db', color: 'white', paddingLeft:10, paddingRight: 10}}>SEC</code>
 
 The second part of the code, in this case, SEC, is the rule type indicator. This part of the code tells you what kind of rule it is.
 
 Here are the possible rule type indicators:
 
-- SEC: Security
-- PERF: Performance
-- ACC: Accessibility
-- QUAL: Quality
-- COMP: Compliance
-- INTG: Integration
-- REL: Reliability
-- USAB: Usability
-- DOC: Documentation
-- STD: Standards
-- LIC: License
+| Rule Type | Description |
+| --- | --- |
+| <code style={{ paddingLeft:10, paddingRight: 10}}>SEC</code> | Security |
+| <code style={{ paddingLeft:10, paddingRight: 10}}>PERF</code> | Performance |
+| <code style={{ paddingLeft:10, paddingRight: 10}}>ACC</code> | Accessibility |
+| <code style={{ paddingLeft:10, paddingRight: 10}}>COMP</code> | Compliance |
+| <code style={{ paddingLeft:10, paddingRight: 10}}>DOC</code> | Documentation |
+| <code style={{ paddingLeft:10, paddingRight: 10}}>STD</code> | Standards |
+
+
 
 ### Sequential Number
 
-<code style={{backgroundColor:'#9b59b6', color: 'white', paddingLeft:10, paddingRight: 10}}>004</code>
-
-The third part of the code, in this case, 004, is the sequential number indicator.
+<code style={{paddingLeft:10, paddingRight: 10}}>004</code> The third part of the code, in this case, 004, is the sequential number indicator.
 
 ### Version Number
 
-<code style={{backgroundColor:'#e67e22', color: 'white', paddingLeft:10, paddingRight: 10}}>v1</code>
-
-The version number indicator is the fourth and final part of the code. This part of the code tells you which version of the rule is being applied.
-
+<code style={{ paddingLeft:10, paddingRight: 10}}>v1</code> The version number indicator is the fourth and final part of the code. This part of the code tells you which version of the rule is being applied.
 
 

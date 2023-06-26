@@ -9,7 +9,7 @@ title: Development.md
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-008-v1
+DEV-DOC-023-v1
 </code>
 <br></br>
 A development documentation should be present in the repository with the path <code>DEVELOPMENT.md</code>.

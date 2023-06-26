@@ -4,21 +4,21 @@
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-012-v1
 </code>
 <br></br>
 The description should be set in the repository settings.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-013-v1
 </code>
 <br></br>
 The topics should be set in the repository settings.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-014-v1
 </code>
 <br></br>
 The website should be set in the repository settings. If no website comes out from the repository you can set the website to the repository itself or to the package registry.

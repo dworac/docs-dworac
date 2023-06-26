@@ -9,7 +9,7 @@ sidebar_position: 2
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-STD-001-v1
 </code>
 <br></br>
 Default branch name should be either `master` or `main`.
@@ -17,7 +17,7 @@ Default branch name should be either `master` or `main`.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-009-v1
+DEV-DOC-002-v1
 </code>
 <br></br>
 Releases should be tagged using a semantic versioning scheme.
@@ -25,7 +25,7 @@ Releases should be tagged using a semantic versioning scheme.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-010-v1
+DEV-SEC-003-v1
 </code>
 <br></br>
 The default branch should be protected from direct pushes.

@@ -8,14 +8,14 @@ id: issue-templates
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-015-v1
 </code>
 <br></br>
 A template for bug reports should be present in the repository with the path <code>.github/ISSUE_TEMPLATE/bug_report.md</code>.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-016-v1
 </code>
 <br></br>
 A template for feature requests should be present in the repository with the path <code>.github/ISSUE_TEMPLATE/feature_request.md</code>.

@@ -9,28 +9,28 @@ sidebar_position: 4
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-006-v1
 </code>
 <br></br>
 Branches should contain the issue id if the work is related to an issue.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-008-v1
+DEV-DOC-007-v1
 </code>
 <br></br>
 Branches should contain the <a href="#branch-types">Branch Type</a>, such as `feat`, `fix` or `chore`
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-010-v1
+DEV-STD-008-v1
 </code>
 <br></br>
 Branches should be named in kebab-case.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-009-v1
+DEV-STD-009-v1
 </code>
 <br></br>
 Do not use the <a href="#examples">Reserved branch names</a> for branches.

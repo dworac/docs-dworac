@@ -8,14 +8,14 @@ id: contributing
 In this document the following auditing rules are covered:
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-007-v1
+DEV-DOC-010-v1
 </code>
 <br></br>
 A Contributing file should be present in the repository's root directory with the name <code>CONTRIBUTING.md</code>.
 <br></br>
 
 <code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
-DEV-DOC-008-v1
+DEV-DOC-011-v1
 </code>
 <br></br>
 The Contributing file should be written in Markdown and should contain all the necessary information for a user to contribute to the project.
