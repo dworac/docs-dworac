@@ -18,7 +18,7 @@ A development documentation should be present in the repository with the path <c
 <br></br>
 <br></br>
 
-Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+Check out all the rules in the <a href="/auditing/rules">Auditor Rules</a> section.
 :::
 
 The DEVELOPMENT.md file is an integral component of any software repository. It communicates to other developers how they can contribute to the project, the development and testing process, and outlines any project-specific requirements.

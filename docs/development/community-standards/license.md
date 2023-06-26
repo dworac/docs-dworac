@@ -16,7 +16,7 @@ A License should be present in the repository's root directory with the name <co
 <br></br>
 <br></br>
 
-Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+Check out all the rules in the <a href="/auditing/rules">Auditor Rules</a> section.
 :::
 
 

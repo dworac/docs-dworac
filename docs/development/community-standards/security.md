@@ -16,7 +16,7 @@ A security policy should be present in the repository with the path <code>SECURI
 <br></br>
 <br></br>
 
-Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+Check out all the rules in the <a href="/auditing/rules">Auditor Rules</a> section.
 :::
 
 

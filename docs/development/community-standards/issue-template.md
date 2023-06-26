@@ -24,7 +24,7 @@ A template for feature requests should be present in the repository with the pat
 <br></br>
 <br></br>
 
-Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+Check out all the rules in the <a href="/auditing/rules">Auditor Rules</a> section.
 :::
 
 

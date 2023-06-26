@@ -23,7 +23,7 @@ The Contributing file should be written in Markdown and should contain all the n
 <br></br>
 <br></br>
 
-Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+Check out all the rules in the <a href="/auditing/rules">Auditor Rules</a> section.
 :::
 
 

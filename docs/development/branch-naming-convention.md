@@ -38,7 +38,7 @@ Do not use the <a href="#examples">Reserved branch names</a> for branches.
 <br></br>
 <br></br>
 
-Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+Check out all the rules in the <a href="/auditing/rules">Auditor Rules</a> section.
 :::
 
 :::info
