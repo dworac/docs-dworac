@@ -70,15 +70,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'repositoriesSidebar',
+            sidebarId: 'developmentSidebar',
             position: 'left',
-            label: 'Repositories Guidelines',
+            label: 'Development',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'auditorSidebar',
+            sidebarId: 'auditingSidebar',
             position: 'left',
-            label: 'Auditor',
+            label: 'Auditing',
           },
           {
             href: 'https://github.com/dworac/docs',

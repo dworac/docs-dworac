@@ -4,6 +4,37 @@ id: readme-docs
 
 # Readme
 
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-019-v1
+</code>
+<br></br>
+A readme file should be present in the repository with the path <code>README.md</code>.
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-008-v1
+</code>
+<br></br>
+The README file should link to:
+<br></br>
+- The project's contribution guidelines
+  <br></br>
+- The project's code of conduct
+  <br></br>
+- The project's license
+  <br></br>
+- The project's changelog
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
+
 The README.md file is often the first document that users and contributors encounter when visiting a software project's repository. It serves as a key guide and reference point for understanding the project's purpose, functionality, and structure. As such, crafting a high-quality README.md is essential for effectively conveying the usage, installation, and contribution guidelines of your project.
 
 A README.md file is typically located in the root directory of your project's repository. It should be named `README.md` and must be written in Markdown language.

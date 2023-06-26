@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Introduction
 ---
 
-# Repositories Guidelines
+# Development
 
 We are going to cover in depth the guidelines for repositories. This will help ensure that all repositories are consistent and follow the best practices.
 

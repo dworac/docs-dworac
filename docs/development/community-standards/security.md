@@ -4,6 +4,22 @@ id: security-policy
 
 # Security Policy
 
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-020-v1
+</code>
+<br></br>
+A security policy should be present in the repository with the path <code>SECURITY.md</code>.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
+
 The SECURITY.md file is an important aspect of any software repository. It provides a way for project maintainers to communicate to users how they handle security vulnerabilities in the project. This can include information about how to report a security vulnerability, what to expect when a vulnerability is reported, and any known security vulnerabilities and their fixes.
 
 The SECURITY.md file should be located in the root directory of the repository or in the `.github` directory. It should be named `SECURITY.md` and should be written in Markdown.

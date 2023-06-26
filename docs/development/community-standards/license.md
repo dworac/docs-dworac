@@ -4,6 +4,22 @@ id: license
 
 # License
 
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-017-v1
+</code>
+<br></br>
+A License should be present in the repository's root directory with the name <code>LICENSE</code>.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
+
 The LICENSE file is an important part of any software repository. It describes the conditions under which the software can be used and distributed, as well as the responsibilities and liabilities of the user.
 
 The LICENSE file should be located in the root directory of the repository. It should be named `LICENSE` or `LICENSE.txt` and could be written in plain text or Markdown.

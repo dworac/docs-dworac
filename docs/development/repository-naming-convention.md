@@ -5,14 +5,34 @@ sidebar_position: 3
 
 # Repository Naming Convention
 
+:::note Auditing
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-STD-004-v1
+</code>
+<br></br>
+The repository name should follow the guidelines outlined in this document. Such as using lowercase letters, using dashes to separate words.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-DOC-005-v1
+</code>
+<br></br>
+Using a descriptive name for the repository.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the <a href="/auditor/rules">Auditor Rules</a> section.
+:::
+
 
 ## Purpose
 
 This guide standardizes the naming of GitHub repositories within our organization to increase clarity, searchability, and consistency. Adherence to this guide ensures that our repositories are easy to locate and understand, facilitating collaboration and communication.
 
-:::caution
-Not adhering to these naming conventions will result in an audit failure.
-:::
 
 ## Naming GitHub Repositories
 
