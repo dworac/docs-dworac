@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.10.0](https://github.com/dworac/docs/compare/v1.9.0...v1.10.0) (2023-06-26)
+
+
+### Features
+
+* auditing codes ([5942d2f](https://github.com/dworac/docs/commit/5942d2f671278214d76b1ea0b8070f04a7a6c11a))
+* auditing rule codes ([24a9d14](https://github.com/dworac/docs/commit/24a9d14f724b5116ec7f5d5a47df437827d9698d))
+* repository renaming ([f468413](https://github.com/dworac/docs/commit/f46841321d42280bd033132ad3f21eb2d377db5e))
+* rules auditing ([a715d09](https://github.com/dworac/docs/commit/a715d099d5f84bf01279a0897a20871f87c08065))
+* rules auditing ([75cf5a8](https://github.com/dworac/docs/commit/75cf5a88fc8b6f8e2c3d870ae6c1ef6f207a95de))
+* rules auditing ([489f3d8](https://github.com/dworac/docs/commit/489f3d8288e6090dbba6daddf4edcbd11e2717f7))
+
+
+### Bug Fixes
+
+* renamed main to master ([219f876](https://github.com/dworac/docs/commit/219f876d1f50eb50a974bff6e09dba6e6a3b3618))
+
 ## [1.9.0](https://github.com/dworac/docs/compare/v1.8.0...v1.9.0) (2023-06-20)
 
 
