@@ -3,7 +3,7 @@ on:
   release:
     types: [published]
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
     environment:
       name: prod
