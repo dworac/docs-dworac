@@ -4,6 +4,32 @@ sidebar_position: 10
 
 # Environment Secrets
 
+:::note Auditing
+
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-SEC-024-v1
+</code>
+<br></br>
+Environment secrets should not be hardcoded in the source code.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-SEC-025-v1
+</code>
+<br></br>
+Environment secrets should be stored in a secure location such as a secret management system or encrypted file.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the [Auditor Rules](/auditing/rules) section.
+:::
+
+
+
 Environment secrets are sensitive data that are used in the configuration of applications. They can be API keys, database usernames and passwords, encryption keys, OAuth tokens, and other types of credentials that your application needs to function.
 
 Environment secrets are often stored in the environment variables of the host machine where the application is running. However, they can also be stored in other secure locations such as secret management systems or encrypted files, and accessed by the application at runtime.

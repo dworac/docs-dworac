@@ -1,5 +1,45 @@
 # Choosing
 
+:::note Auditing
+
+In this document the following auditing rules are covered:
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-PERF-026-v1
+</code>
+<br></br>
+Static websites should be deployed to a static hosting service such as Azure Static Web Apps.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-PERF-027-v1
+</code>
+<br></br>
+Virtual machines like Droplets should be used only when there is no other option.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-PERF-028-v1
+</code>
+<br></br>
+High traffic static websites should be deployed to a CDN.
+
+<br></br>
+
+<code style={{backgroundColor:'#1abc9c', color: 'white', paddingLeft:10, paddingRight: 10}}>
+DEV-PERF-029-v1
+</code>
+<br></br>
+High traffic web services should be deployed to a serverless service such as Azure App Service or Kubernetes for non-serverless services.
+
+<br></br>
+<br></br>
+
+Check out all the rules in the [Auditor Rules](/auditing/rules) section.
+:::
+
 Even if deploying is the last step in the development process, it is one of the most important steps. What good is a project if it is not available to users?
 
 We can split most projects into the following categories:
