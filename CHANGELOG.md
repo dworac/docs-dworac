@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.12.0](https://github.com/dworac/docs/compare/v1.11.0...v1.12.0) (2023-06-29)
+
+
+### Features
+
+* added rules ([7193a78](https://github.com/dworac/docs/commit/7193a78e5beffb6e60df69986606bcc92cabfea7))
+* choose resource file ([46d0d63](https://github.com/dworac/docs/commit/46d0d633aee939fc7889dbde25972505923e19d0))
+
 ## [1.11.0](https://github.com/dworac/docs/compare/v1.10.0...v1.11.0) (2023-06-26)
 
 
